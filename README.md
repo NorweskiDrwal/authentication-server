@@ -1,2 +1,2 @@
 # authentication-server
-Node/Express/Mongo server for login/register
+Node/Express login+register
